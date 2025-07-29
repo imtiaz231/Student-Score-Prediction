@@ -1,5 +1,6 @@
 # Student-Score-Prediction
-# 📈 Student Score Prediction – ML Regression Project  This project is part of my 30-Day Machine Learning Challenge with Elevvo Internship.   The goal is to predict students' exam scores based on the number of study hours using linear and polynomial regression.  ---
+# 📈 Student Score Prediction – ML Regression Project  
+This project is part of my 30-Day Machine Learning Challenge with Elevvo Internship.   The goal is to predict students' exam scores based on the number of study hours using linear and polynomial regression.  ---
 💡 Project Objective
 The objective of this project is to predict students' exam scores based on various factors influencing academic performance, with a primary focus on study hours. By analyzing key variables such as study time, attendance, previous grades, and socio-economic factors, we aim to build a reliable predictive model using Linear Regression. This model can help educators identify at-risk students early and support data-driven interventions to improve learning outcomes.
 ## 📊 Dataset
